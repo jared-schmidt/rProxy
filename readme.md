@@ -1,5 +1,4 @@
 # rProxy - Simple Node (Express) Reverse Proxy
----
 
 ## Setup
 1. Clone repo
